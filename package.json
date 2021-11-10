@@ -1,0 +1,22 @@
+{
+  "name": "devops-backend",
+  "version": "1.0.0",
+  "description": "DevOps-Backend for CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpales/DevOps-Backend.git"
+  },
+  "author": "Pales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpales/DevOps-Backend/issues"
+  },
+  "homepage": "https://github.com/mpales/DevOps-Backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
